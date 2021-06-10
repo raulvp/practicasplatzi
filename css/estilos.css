@@ -4,3 +4,8 @@ body
     text-align: center;
     font-family: "Arial";
 }
+
+#parrafo{
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
